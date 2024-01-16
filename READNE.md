@@ -1,4 +1,4 @@
-# Ubuntu 20.04 Docker Container with XFCE Desktop over VNC / noVNC
+# Ubuntu 20.04 Docker Container with XFCE Desktop over VaaNC / noVNC
 
 Did you ever wanted to start a fully-fledged Ubuntu Docker container with a full desktop experience?
 If so, then this Docker image suits your needs: it provides quick access to an entire Ubuntu Desktop (XFCE) – directly from within the Docker container.
